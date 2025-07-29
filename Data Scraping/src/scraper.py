@@ -8,6 +8,7 @@ from selenium.webdriver.chrome.service import Service
 
 sys.path.append(os.path.join(os.path.dirname(__file__)))
 from extractor.genre import GenreExtractor
+from extractor.collection import CollectionExtractor
 
 CHROMEDRIVER_PATH = 'D:/Exe/chromedriver-win64/chromedriver.exe'
 CHROME_PATH = 'D:/Exe/chrome-win64/chrome.exe'
@@ -41,6 +42,7 @@ class SpotifyScraper:
         
         self.browser = self._initialize_browser(chromedriver_path, chrome_path)
         self.genre_extractor = GenreExtractor(self.browser)
+        self.collection_extractor = CollectionExtractor(self.browser)
         
         self.browser.get(self.start_url)
         logging.info(f"[Main] Navigated to {self.start_url}")
@@ -101,17 +103,69 @@ class SpotifyScraper:
             logging.info("[Genre] No genre links found!")
             return
         
-        logging.info(f"[Main] Found {len(self.genre_links)} genres:")
+        print(f"\n[Main] Found {len(self.genre_links)} genres:")
 
         for genre in self.genre_links[:10]:
             print(f"- {genre['name']}: {genre['url']}")
         if len(self.genre_links) > 10:
-            print(f"... and {len(self.genre_links) - 10} more")
+            print(f"... and {len(self.genre_links) - 10} more\n")
         
         try:
             self.genre_extractor.save_to_json("Data Scraping/data/genre.json")
         except Exception as e:
             logging.error(f"[Genre] Error saving genres: {str(e)}")
+            raise
+
+    def _process_collection(self) -> None:
+        """Extract and save collection data from genres
+        
+        Raises:
+            WebDriverException: If browser automation fails
+            Exception: If any step in the collection extraction process fails
+        """
+
+        if not self.genre_links:
+            logging.warning("[Collection] No genre links available for collection extraction")
+            return
+        
+        try:
+            self.collections = self.collection_extractor.get_data(self.genre_links)
+        except Exception as e:
+            logging.error(f"[Collection] {str(e)}")
+            raise
+        
+        if not self.collections:
+            print("No collections found!")
+            return
+        
+        print(f"\n[Main] Total collections found: {len(self.collections)}")
+        
+        genre_collection_count = {}
+        for collection in self.collections:
+            genre_id = collection['genre_id']
+            genre_collection_count[genre_id] = genre_collection_count.get(genre_id, 0) + 1
+        
+        print("\nCollections per genre:")
+        for i, genre in enumerate(self.genre_links[:10]):
+            count = genre_collection_count.get(genre['genre_id'], 0)
+            print(f"- {genre['name']}: {count} collections")
+        
+        if len(self.genre_links) > 10:
+            remaining_count = sum(genre_collection_count.get(g['genre_id'], 0) for g in self.genre_links[10:])
+            print(f"- ... and {remaining_count} more collections from other genres")
+        
+        print(f"\n[Main] Sample collections:")
+        for collection in self.collections[:5]:
+            genre_name = next((g['name'] for g in self.genre_links if g['genre_id'] == collection['genre_id']), 'Unknown')
+            print(f"- {collection['name']} (from {genre_name})")
+        
+        if len(self.collections) > 5:
+            print(f"... and {len(self.collections) - 5} more\n")
+        
+        try:
+            self.collection_extractor.save_to_json("Data Scraping/data/collections.json")
+        except Exception as e:
+            logging.error(f"[Collection] Error saving collections: {str(e)}")
             raise
         
     def run(self) -> None:
@@ -128,6 +182,10 @@ class SpotifyScraper:
             logging.info("[Main] Starting genre extraction...")
             self._process_genre()
             logging.info("[Main] Genre extraction completed successfully")
+
+            logging.info("[Main] Starting collection extraction...")
+            self._process_collection()
+            logging.info("[Main] Collection extraction completed successfully")
 
         except WebDriverException as e:
             logging.error(f"[Main - WebDriverException] {str(e)}")

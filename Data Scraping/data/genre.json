@@ -1,0 +1,272 @@
+[
+  {
+    "genre_id": "0JQ5DAqbMKFSi39LMRT0Cy",
+    "name": "Music",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFSi39LMRT0Cy"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFz6FAsUtgAab",
+    "name": "New Releases",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFz6FAsUtgAab"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFEC4WFtoNRpw",
+    "name": "Pop",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFEC4WFtoNRpw"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFCWjUTdzaG0e",
+    "name": "Indie",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFCWjUTdzaG0e"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFMwSxVe96hyA",
+    "name": "Musik Indonesia",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFMwSxVe96hyA"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFGvOw3O4nLAf",
+    "name": "K-pop",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFGvOw3O4nLAf"
+  },
+  {
+    "genre_id": "0JQ5DAudkNjCgYMM0TZXDw",
+    "name": "Charts",
+    "url": "https://open.spotify.com/genre/0JQ5DAudkNjCgYMM0TZXDw"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFIRybaNTYXXy",
+    "name": "In the car",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFIRybaNTYXXy"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFFoimhOqWzLB",
+    "name": "Kids & Family",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFFoimhOqWzLB"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFQ00XGBls6ym",
+    "name": "Hip-Hop",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFQ00XGBls6ym"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFDXXwE9BDJAr",
+    "name": "Rock",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFDXXwE9BDJAr"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFEZPnFQSFB1T",
+    "name": "R&B",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFEZPnFQSFB1T"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFHOzuVTgTizF",
+    "name": "Dance/Electronic",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFHOzuVTgTizF"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFzHmL4tf05da",
+    "name": "Mood",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFzHmL4tf05da"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFCuoRTxhYWow",
+    "name": "Sleep",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFCuoRTxhYWow"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFx0uLQR2okcc",
+    "name": "At Home",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFx0uLQR2okcc"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFFzDl7qN9Apr",
+    "name": "Chill",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFFzDl7qN9Apr"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFI9pBj99rHhq",
+    "name": "J-Tracks",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFI9pBj99rHhq"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFPxa6qGrzMXB",
+    "name": "Malay pop",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFPxa6qGrzMXB"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFAJ5xb0fwo9m",
+    "name": "Jazz",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFAJ5xb0fwo9m"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFA6SOHvT3gck",
+    "name": "Party",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFA6SOHvT3gck"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFAXlCG6QvYQ4",
+    "name": "Workout",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFAXlCG6QvYQ4"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFAUsdyVjCQuL",
+    "name": "Love",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFAUsdyVjCQuL"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFDkd668ypn6O",
+    "name": "Metal",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFDkd668ypn6O"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFIVNxQgRNSg0",
+    "name": "Decades",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFIVNxQgRNSg0"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFQIL0AXnG5AK",
+    "name": "Trending",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFQIL0AXnG5AK"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFziKOShCi009",
+    "name": "Anime",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFziKOShCi009"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFAjfauKLOZiv",
+    "name": "Punk",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFAjfauKLOZiv"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFy78wprEpAjl",
+    "name": "Folk & Acoustic",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFy78wprEpAjl"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFCbimwdOYlsl",
+    "name": "Focus",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFCbimwdOYlsl"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFIpEuaCnimBj",
+    "name": "Soul",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFIpEuaCnimBj"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFCfObibaOZbv",
+    "name": "Gaming",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFCfObibaOZbv"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFxXaXKP7zcDp",
+    "name": "Latin",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFxXaXKP7zcDp"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFOzQeOmemkuw",
+    "name": "TV & Movies",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFOzQeOmemkuw"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFRieVZLLoo9m",
+    "name": "Instrumental",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFRieVZLLoo9m"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFLjmiZRss79w",
+    "name": "Ambient",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFLjmiZRss79w"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFRY5ok2pxXJ0",
+    "name": "Cooking & Dining",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFRY5ok2pxXJ0"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFFtlLYUHv8bT",
+    "name": "Alternative",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFFtlLYUHv8bT"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFOOxftoKZxod",
+    "name": "RADAR",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFOOxftoKZxod"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFPrEiAOxgac3",
+    "name": "Classical",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFPrEiAOxgac3"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFSCjnQr8QZ3O",
+    "name": "Songwriters",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFSCjnQr8QZ3O"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFI3pNLtYMD9S",
+    "name": "Nature & Noise",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFI3pNLtYMD9S"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFDBgllo2cUIN",
+    "name": "Spotify Singles",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFDBgllo2cUIN"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFLVaM30PMBm4",
+    "name": "Summer",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFLVaM30PMBm4"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFPw634sFwguI",
+    "name": "EQUAL",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFPw634sFwguI"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFImHYGo3eTSg",
+    "name": "Fresh Finds",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFEOEBCABAxo9",
+    "name": "Netflix",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFEOEBCABAxo9"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFIxnofjQmnmn",
+    "name": "Disney",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFIxnofjQmnmn"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFKLfwjuJMoNC",
+    "name": "Country",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFKLfwjuJMoNC"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFLb2EqgLtpjC",
+    "name": "Wellness",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFLb2EqgLtpjC"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFRKBHIxJ5hMm",
+    "name": "Tastemakers",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFRKBHIxJ5hMm"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFQ1UFISXj59F",
+    "name": "Arab",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFQ1UFISXj59F"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFObNLOHydSW8",
+    "name": "Caribbean",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFObNLOHydSW8"
+  },
+  {
+    "genre_id": "0JQ5DAqbMKFNQ0fGp4byGU",
+    "name": "Afro",
+    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFNQ0fGp4byGU"
+  }
+]

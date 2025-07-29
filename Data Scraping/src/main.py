@@ -19,6 +19,7 @@ logging.basicConfig(
 )
 
 scraper = SpotifyScraper(START_URL, CHROMEDRIVER_PATH, CHROME_PATH)
+scraper.run()
 
 if scraper:
     scraper.close_browser()

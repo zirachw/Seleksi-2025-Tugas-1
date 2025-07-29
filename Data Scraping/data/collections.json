@@ -1,0 +1,1820 @@
+[
+  {
+    "collection_id": "section0JQ5IMCbQBLxiq60ucFyRW",
+    "genre_id": "0JQ5DAqbMKFSi39LMRT0Cy",
+    "name": "Discover new music",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLxiq60ucFyRW"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLoTGHT2pACU8",
+    "genre_id": "0JQ5DAqbMKFSi39LMRT0Cy",
+    "name": "Playlists from our Editors",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLoTGHT2pACU8"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLp5V4s21Vchj",
+    "genre_id": "0JQ5DAqbMKFSi39LMRT0Cy",
+    "name": "Music video playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLp5V4s21Vchj"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAlPhkJ41ypw",
+    "genre_id": "0JQ5DAqbMKFSi39LMRT0Cy",
+    "name": "Hand-picked new releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAlPhkJ41ypw"
+  },
+  {
+    "collection_id": "section0JQ5DAzQHECxDlYNI6xD1g",
+    "genre_id": "0JQ5DAqbMKFSi39LMRT0Cy",
+    "name": "Featured Charts",
+    "url": "https://open.spotify.com/genre/section0JQ5DAzQHECxDlYNI6xD1g"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLmdV4K4hLrHt",
+    "genre_id": "0JQ5DAqbMKFSi39LMRT0Cy",
+    "name": "Popular EQUAL playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLmdV4K4hLrHt"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBpd8Qit3Esn",
+    "genre_id": "0JQ5DAqbMKFz6FAsUtgAab",
+    "name": "The best new releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBpd8Qit3Esn"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAlPhkJ41ypw",
+    "genre_id": "0JQ5DAqbMKFz6FAsUtgAab",
+    "name": "Hand-picked new releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAlPhkJ41ypw"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLoSVpnseIhn6",
+    "genre_id": "0JQ5DAqbMKFEC4WFtoNRpw",
+    "name": "All Things Pop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLoSVpnseIhn6"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLC0DY87kyeG2",
+    "genre_id": "0JQ5DAqbMKFEC4WFtoNRpw",
+    "name": "New Pop Releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLC0DY87kyeG2"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiOhMV3xyti0",
+    "genre_id": "0JQ5DAqbMKFEC4WFtoNRpw",
+    "name": "Women of pop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiOhMV3xyti0"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLjpUGSxvu08z",
+    "genre_id": "0JQ5DAqbMKFEC4WFtoNRpw",
+    "name": "Latin Pop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLjpUGSxvu08z"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsv7IIwbApkv",
+    "genre_id": "0JQ5DAqbMKFCWjUTdzaG0e",
+    "name": "Indonesian Indie",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsv7IIwbApkv"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsVuW0fD3Bmf",
+    "genre_id": "0JQ5DAqbMKFCWjUTdzaG0e",
+    "name": "Indie Essentials",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsVuW0fD3Bmf"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAHFqDXCWWs5",
+    "genre_id": "0JQ5DAqbMKFCWjUTdzaG0e",
+    "name": "Fresh Asian Indie",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAHFqDXCWWs5"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLpWesTpzW2kY",
+    "genre_id": "0JQ5DAqbMKFCWjUTdzaG0e",
+    "name": "Best of Indie 2023",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLpWesTpzW2kY"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsGNHJ85TVgP",
+    "genre_id": "0JQ5DAqbMKFCWjUTdzaG0e",
+    "name": "Best of Indie 2022",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsGNHJ85TVgP"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLrJe122X4ACN",
+    "genre_id": "0JQ5DAqbMKFCWjUTdzaG0e",
+    "name": "Popular indie playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLrJe122X4ACN"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLoROC9mzi1Z0",
+    "genre_id": "0JQ5DAqbMKFCWjUTdzaG0e",
+    "name": "The best indie albums of the 2010s",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLoROC9mzi1Z0"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLxiS4k9AhXe2",
+    "genre_id": "0JQ5DAqbMKFCWjUTdzaG0e",
+    "name": "The best indie albums of the 2000s",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLxiS4k9AhXe2"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsv7IIwbApkv",
+    "genre_id": "0JQ5DAqbMKFMwSxVe96hyA",
+    "name": "Indonesian Indie",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsv7IIwbApkv"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLkMHAb7SsGJX",
+    "genre_id": "0JQ5DAqbMKFMwSxVe96hyA",
+    "name": "The Richness of Indonesian Music",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLkMHAb7SsGJX"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLjcOjXdl2H0f",
+    "genre_id": "0JQ5DAqbMKFMwSxVe96hyA",
+    "name": "Music All Day 24/7",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLjcOjXdl2H0f"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLjKDaaWfzzas",
+    "genre_id": "0JQ5DAqbMKFMwSxVe96hyA",
+    "name": "Indonesian Music From Time to Time",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLjKDaaWfzzas"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLhdXvePCKv3z",
+    "genre_id": "0JQ5DAqbMKFMwSxVe96hyA",
+    "name": "Best of Musik Indonesia",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLhdXvePCKv3z"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvzsc9IsbuOK",
+    "genre_id": "0JQ5DAqbMKFGvOw3O4nLAf",
+    "name": "K-Essentials",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvzsc9IsbuOK"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLrjsCav1ZNPV",
+    "genre_id": "0JQ5DAqbMKFGvOw3O4nLAf",
+    "name": "K-Music Show & Festival",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLrjsCav1ZNPV"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLuXHCYyjGjuH",
+    "genre_id": "0JQ5DAqbMKFGvOw3O4nLAf",
+    "name": "K-Dramas, movies and more",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLuXHCYyjGjuH"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLml5lAZcsbdA",
+    "genre_id": "0JQ5DAqbMKFGvOw3O4nLAf",
+    "name": "K-Pop Moods and Moments",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLml5lAZcsbdA"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLhsocEcjhnXs",
+    "genre_id": "0JQ5DAqbMKFGvOw3O4nLAf",
+    "name": "K-Pop Activities",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLhsocEcjhnXs"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLuJ24cIuwjpf",
+    "genre_id": "0JQ5DAqbMKFGvOw3O4nLAf",
+    "name": "This Is: K-Music",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLuJ24cIuwjpf"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiVvO8KZOp8m",
+    "genre_id": "0JQ5DAqbMKFGvOw3O4nLAf",
+    "name": "K-Hip Hop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiVvO8KZOp8m"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLuyZfmUzefRo",
+    "genre_id": "0JQ5DAqbMKFGvOw3O4nLAf",
+    "name": "Women of K-Pop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLuyZfmUzefRo"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLnZ9oNPnLvaG",
+    "genre_id": "0JQ5DAqbMKFGvOw3O4nLAf",
+    "name": "Men of K-Pop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLnZ9oNPnLvaG"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLjOS4gPECJSO",
+    "genre_id": "0JQ5DAqbMKFGvOw3O4nLAf",
+    "name": "New Korean releases this week",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLjOS4gPECJSO"
+  },
+  {
+    "collection_id": "section0JQ5DAzQHECxDlYNI6xD1g",
+    "genre_id": "0JQ5DAudkNjCgYMM0TZXDw",
+    "name": "Featured Charts",
+    "url": "https://open.spotify.com/genre/section0JQ5DAzQHECxDlYNI6xD1g"
+  },
+  {
+    "collection_id": "section0JQ5DAzQHECxDlYNI6xD1h",
+    "genre_id": "0JQ5DAudkNjCgYMM0TZXDw",
+    "name": "Weekly Song Charts",
+    "url": "https://open.spotify.com/genre/section0JQ5DAzQHECxDlYNI6xD1h"
+  },
+  {
+    "collection_id": "section0JQ5DAzQHECxDlYNI6xD1i",
+    "genre_id": "0JQ5DAudkNjCgYMM0TZXDw",
+    "name": "Daily Song Charts",
+    "url": "https://open.spotify.com/genre/section0JQ5DAzQHECxDlYNI6xD1i"
+  },
+  {
+    "collection_id": "section0JQ5DAzQHECxDlYNI6xD1j",
+    "genre_id": "0JQ5DAudkNjCgYMM0TZXDw",
+    "name": "Daily Viral Charts",
+    "url": "https://open.spotify.com/genre/section0JQ5DAzQHECxDlYNI6xD1j"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLrUb9DoZarYd",
+    "genre_id": "0JQ5DAqbMKFIRybaNTYXXy",
+    "name": "Drivetime radio",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLrUb9DoZarYd"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzn6hWUITTt0",
+    "genre_id": "0JQ5DAqbMKFIRybaNTYXXy",
+    "name": "Classic road trip songs",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzn6hWUITTt0"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLnZev2hUYf0L",
+    "genre_id": "0JQ5DAqbMKFIRybaNTYXXy",
+    "name": "LOL while driving",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLnZev2hUYf0L"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLqZvLkVK1M1v",
+    "genre_id": "0JQ5DAqbMKFFoimhOqWzLB",
+    "name": "Spesial Hari Anak bersama Geng Jumbo",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLqZvLkVK1M1v"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLouPNp0Uo9VR",
+    "genre_id": "0JQ5DAqbMKFFoimhOqWzLB",
+    "name": "Family listening",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLouPNp0Uo9VR"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvkNcVMmmm9e",
+    "genre_id": "0JQ5DAqbMKFFoimhOqWzLB",
+    "name": "Family Favorites",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvkNcVMmmm9e"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLnjETREflcqJ",
+    "genre_id": "0JQ5DAqbMKFQ00XGBls6ym",
+    "name": "Popular Hip-Hop playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLnjETREflcqJ"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtddeKTXyX4J",
+    "genre_id": "0JQ5DAqbMKFQ00XGBls6ym",
+    "name": "Hip Hop New Releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtddeKTXyX4J"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsWeNad4hlmH",
+    "genre_id": "0JQ5DAqbMKFQ00XGBls6ym",
+    "name": "Classic Material",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsWeNad4hlmH"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLl484rWpQ3Fr",
+    "genre_id": "0JQ5DAqbMKFQ00XGBls6ym",
+    "name": "Hip-Hop Around The World",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLl484rWpQ3Fr"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAH8bWEmOtHX",
+    "genre_id": "0JQ5DAqbMKFQ00XGBls6ym",
+    "name": "Women in Hip-Hop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAH8bWEmOtHX"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLoFB3LW3TZtU",
+    "genre_id": "0JQ5DAqbMKFQ00XGBls6ym",
+    "name": "Most Streamed Rappers On Spotify",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLoFB3LW3TZtU"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvqREL9QZ1fQ",
+    "genre_id": "0JQ5DAqbMKFQ00XGBls6ym",
+    "name": "Most Streamed Rap Albums on Spotify",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvqREL9QZ1fQ"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzKLOwwJBcdJ",
+    "genre_id": "0JQ5DAqbMKFQ00XGBls6ym",
+    "name": "RapCaviar Presents...",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzKLOwwJBcdJ"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLCApBaRMg3Mg",
+    "genre_id": "0JQ5DAqbMKFQ00XGBls6ym",
+    "name": "Trending Japanese Hip-Hop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLCApBaRMg3Mg"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLwIRTksARIaS",
+    "genre_id": "0JQ5DAqbMKFDXXwE9BDJAr",
+    "name": "The pulse of Rock",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLwIRTksARIaS"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLi7oC0wV6EXy",
+    "genre_id": "0JQ5DAqbMKFDXXwE9BDJAr",
+    "name": "Remembering Ozzy Osbourne",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLi7oC0wV6EXy"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLoKekK2IG0Gv",
+    "genre_id": "0JQ5DAqbMKFDXXwE9BDJAr",
+    "name": "Latin Rock",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLoKekK2IG0Gv"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLotX0rGrAq42",
+    "genre_id": "0JQ5DAqbMKFDXXwE9BDJAr",
+    "name": "This Week in J-Rock",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLotX0rGrAq42"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLqAUj6H8RfSo",
+    "genre_id": "0JQ5DAqbMKFEZPnFQSFB1T",
+    "name": "R&B New Releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLqAUj6H8RfSo"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvClvv2MW52f",
+    "genre_id": "0JQ5DAqbMKFEZPnFQSFB1T",
+    "name": "R&B around the world",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvClvv2MW52f"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLuRvGbRRoxQW",
+    "genre_id": "0JQ5DAqbMKFEZPnFQSFB1T",
+    "name": "Popular R&B Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLuRvGbRRoxQW"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLjM0PD2WsCNe",
+    "genre_id": "0JQ5DAqbMKFHOzuVTgTizF",
+    "name": "Popular Dance/Electronic playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLjM0PD2WsCNe"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsnqG9wls1C2",
+    "genre_id": "0JQ5DAqbMKFHOzuVTgTizF",
+    "name": "track IDs",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsnqG9wls1C2"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLi0hmWMsAF4P",
+    "genre_id": "0JQ5DAqbMKFHOzuVTgTizF",
+    "name": "New Dance/Electronic Releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLi0hmWMsAF4P"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBW5kwbDhW4Q",
+    "genre_id": "0JQ5DAqbMKFzHmL4tf05da",
+    "name": "What’s your mood?",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBW5kwbDhW4Q"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLqwAMp32A1Ia",
+    "genre_id": "0JQ5DAqbMKFzHmL4tf05da",
+    "name": "The saddest playlists in the world",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLqwAMp32A1Ia"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLyDGs9iJkl6N",
+    "genre_id": "0JQ5DAqbMKFzHmL4tf05da",
+    "name": "lofi moods & moments",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLyDGs9iJkl6N"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLyWoVcGHX8iO",
+    "genre_id": "0JQ5DAqbMKFzHmL4tf05da",
+    "name": "In the mood for romance",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLyWoVcGHX8iO"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzIM85Drg2GD",
+    "genre_id": "0JQ5DAqbMKFzHmL4tf05da",
+    "name": "Coffeehouse",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzIM85Drg2GD"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtqe3T85WC6v",
+    "genre_id": "0JQ5DAqbMKFzHmL4tf05da",
+    "name": "Happy",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtqe3T85WC6v"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLhgTMJITUxK4",
+    "genre_id": "0JQ5DAqbMKFx0uLQR2okcc",
+    "name": "Soundtrack your home",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLhgTMJITUxK4"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLqwkG28yzSrp",
+    "genre_id": "0JQ5DAqbMKFx0uLQR2okcc",
+    "name": "Music for work",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLqwkG28yzSrp"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtqe3T85WC6v",
+    "genre_id": "0JQ5DAqbMKFx0uLQR2okcc",
+    "name": "Happy",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtqe3T85WC6v"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLyZO0paCgZuE",
+    "genre_id": "0JQ5DAqbMKFx0uLQR2okcc",
+    "name": "Sleeping & napping",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLyZO0paCgZuE"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvhGBYx1XOBO",
+    "genre_id": "0JQ5DAqbMKFFzDl7qN9Apr",
+    "name": "Popular chill playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvhGBYx1XOBO"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtHlC1uTDc8h",
+    "genre_id": "0JQ5DAqbMKFFzDl7qN9Apr",
+    "name": "lofi essentials",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtHlC1uTDc8h"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBmzfLreYSQn",
+    "genre_id": "0JQ5DAqbMKFFzDl7qN9Apr",
+    "name": "Chill with Jazz",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBmzfLreYSQn"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLCoQm4GhVhSI",
+    "genre_id": "0JQ5DAqbMKFFzDl7qN9Apr",
+    "name": "Deep house & chill",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLCoQm4GhVhSI"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLp9DW8IBDBrU",
+    "genre_id": "0JQ5DAqbMKFFzDl7qN9Apr",
+    "name": "Blissful chill beats",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLp9DW8IBDBrU"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLALKfhEtpIIC",
+    "genre_id": "0JQ5DAqbMKFI9pBj99rHhq",
+    "name": "Popular J-Tracks playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLALKfhEtpIIC"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLq00gCoz2RuN",
+    "genre_id": "0JQ5DAqbMKFI9pBj99rHhq",
+    "name": "This Week in J-Tracks",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLq00gCoz2RuN"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLpBKqx1k71wq",
+    "genre_id": "0JQ5DAqbMKFI9pBj99rHhq",
+    "name": "J-Tracks New Releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLpBKqx1k71wq"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLotX0rGrAq42",
+    "genre_id": "0JQ5DAqbMKFI9pBj99rHhq",
+    "name": "This Week in J-Rock",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLotX0rGrAq42"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLCApBaRMg3Mg",
+    "genre_id": "0JQ5DAqbMKFI9pBj99rHhq",
+    "name": "Trending Japanese Hip-Hop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLCApBaRMg3Mg"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLwJISAqZWhTE",
+    "genre_id": "0JQ5DAqbMKFI9pBj99rHhq",
+    "name": "Decades of J-tracks",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLwJISAqZWhTE"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLnPxPDkjCH3E",
+    "genre_id": "0JQ5DAqbMKFI9pBj99rHhq",
+    "name": "Your Favorite Anime Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLnPxPDkjCH3E"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLqAZHX2Lq2nN",
+    "genre_id": "0JQ5DAqbMKFI9pBj99rHhq",
+    "name": "Decades of Japanese City Pop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLqAZHX2Lq2nN"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLkh0LTXsn9kK",
+    "genre_id": "0JQ5DAqbMKFI9pBj99rHhq",
+    "name": "Go Stream",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLkh0LTXsn9kK"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtd90Hq2TqBS",
+    "genre_id": "0JQ5DAqbMKFAJ5xb0fwo9m",
+    "name": "Jazz collections",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtd90Hq2TqBS"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLlnDexut6uHB",
+    "genre_id": "0JQ5DAqbMKFAJ5xb0fwo9m",
+    "name": "Popular Jazz playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLlnDexut6uHB"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiTWepiiHxi2",
+    "genre_id": "0JQ5DAqbMKFAJ5xb0fwo9m",
+    "name": "New releases Jazz",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiTWepiiHxi2"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtk3MEX9KuyT",
+    "genre_id": "0JQ5DAqbMKFAJ5xb0fwo9m",
+    "name": "Jazz Icons",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtk3MEX9KuyT"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLu3yU1ylugm1",
+    "genre_id": "0JQ5DAqbMKFA6SOHvT3gck",
+    "name": "Popular Party playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLu3yU1ylugm1"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLnUSTWTtvPW1",
+    "genre_id": "0JQ5DAqbMKFA6SOHvT3gck",
+    "name": "Dance Party",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLnUSTWTtvPW1"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLprCYGZ9hVs1",
+    "genre_id": "0JQ5DAqbMKFA6SOHvT3gck",
+    "name": "Pop Party",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLprCYGZ9hVs1"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvM5zfKfEb64",
+    "genre_id": "0JQ5DAqbMKFA6SOHvT3gck",
+    "name": "Hip-Hop Party",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvM5zfKfEb64"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLxuIIZo3pIGR",
+    "genre_id": "0JQ5DAqbMKFA6SOHvT3gck",
+    "name": "Throwback Party",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLxuIIZo3pIGR"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLCKKivH6L6LP",
+    "genre_id": "0JQ5DAqbMKFA6SOHvT3gck",
+    "name": "Rock Party",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLCKKivH6L6LP"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLCv4sIuU7IFC",
+    "genre_id": "0JQ5DAqbMKFA6SOHvT3gck",
+    "name": "Indie Party",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLCv4sIuU7IFC"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiYXBjrUA0dS",
+    "genre_id": "0JQ5DAqbMKFA6SOHvT3gck",
+    "name": "Latin Party",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiYXBjrUA0dS"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiEFKFapjR6m",
+    "genre_id": "0JQ5DAqbMKFA6SOHvT3gck",
+    "name": "Dancing through the decades",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiEFKFapjR6m"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBOFolbkiNrc",
+    "genre_id": "0JQ5DAqbMKFA6SOHvT3gck",
+    "name": "Only salsa",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBOFolbkiNrc"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsb9HwPKg2Us",
+    "genre_id": "0JQ5DAqbMKFAXlCG6QvYQ4",
+    "name": "Popular Workout playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsb9HwPKg2Us"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvriFyH4jQ7v",
+    "genre_id": "0JQ5DAqbMKFAXlCG6QvYQ4",
+    "name": "Dance workout",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvriFyH4jQ7v"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLmIPNacdKfvz",
+    "genre_id": "0JQ5DAqbMKFAXlCG6QvYQ4",
+    "name": "Hip-Hop Workout",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLmIPNacdKfvz"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLn5XuOO7OAQB",
+    "genre_id": "0JQ5DAqbMKFAUsdyVjCQuL",
+    "name": "Popular Romance playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLn5XuOO7OAQB"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtcZTvdFyLvj",
+    "genre_id": "0JQ5DAqbMKFAUsdyVjCQuL",
+    "name": "What falling in love sounds like",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtcZTvdFyLvj"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLv9vEDxgcnbD",
+    "genre_id": "0JQ5DAqbMKFAUsdyVjCQuL",
+    "name": "A spicy soundtrack",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLv9vEDxgcnbD"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLw8q9lCpzzM7",
+    "genre_id": "0JQ5DAqbMKFAUsdyVjCQuL",
+    "name": "Setting a romantic atmosphere",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLw8q9lCpzzM7"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLwFYv9eujvg4",
+    "genre_id": "0JQ5DAqbMKFAUsdyVjCQuL",
+    "name": "Wedding Season",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLwFYv9eujvg4"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLi8h0758y3Cq",
+    "genre_id": "0JQ5DAqbMKFAUsdyVjCQuL",
+    "name": "Decades of Love",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLi8h0758y3Cq"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLxpHSpMkdr7F",
+    "genre_id": "0JQ5DAqbMKFAUsdyVjCQuL",
+    "name": "Rock & Alt Love",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLxpHSpMkdr7F"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsZoGhktY3px",
+    "genre_id": "0JQ5DAqbMKFAUsdyVjCQuL",
+    "name": "Love around the world",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsZoGhktY3px"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLr7YOMePhgAa",
+    "genre_id": "0JQ5DAqbMKFAUsdyVjCQuL",
+    "name": "Falling in love❤️",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLr7YOMePhgAa"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLxYFUP8ZkCUW",
+    "genre_id": "0JQ5DAqbMKFDkd668ypn6O",
+    "name": "The state of Metal today",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLxYFUP8ZkCUW"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLw6iUaLgzA8X",
+    "genre_id": "0JQ5DAqbMKFDkd668ypn6O",
+    "name": "New Releases in Metal",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLw6iUaLgzA8X"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLnd8NNIB6b1w",
+    "genre_id": "0JQ5DAqbMKFDkd668ypn6O",
+    "name": "Metal Essentials",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLnd8NNIB6b1w"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLxWLN7iO2fb7",
+    "genre_id": "0JQ5DAqbMKFDkd668ypn6O",
+    "name": "Popular Metal playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLxWLN7iO2fb7"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLikTg882g7Q6",
+    "genre_id": "0JQ5DAqbMKFDkd668ypn6O",
+    "name": "Nu Metal Rewind",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLikTg882g7Q6"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLliJJHzPiUMq",
+    "genre_id": "0JQ5DAqbMKFDkd668ypn6O",
+    "name": "Metalcore essentials",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLliJJHzPiUMq"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiUAx9IazDbv",
+    "genre_id": "0JQ5DAqbMKFDkd668ypn6O",
+    "name": "nü metal now",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiUAx9IazDbv"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLlnZaoAkb9XW",
+    "genre_id": "0JQ5DAqbMKFIVNxQgRNSg0",
+    "name": "Popular Decades playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLlnZaoAkb9XW"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLrtmenE0j1OF",
+    "genre_id": "0JQ5DAqbMKFIVNxQgRNSg0",
+    "name": "Popular 10s playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLrtmenE0j1OF"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLhe4BedYWrMt",
+    "genre_id": "0JQ5DAqbMKFIVNxQgRNSg0",
+    "name": "Popular 00s playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLhe4BedYWrMt"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLjKMxZWquUGj",
+    "genre_id": "0JQ5DAqbMKFIVNxQgRNSg0",
+    "name": "Popular 90s playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLjKMxZWquUGj"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLkduOEBMFU9Y",
+    "genre_id": "0JQ5DAqbMKFIVNxQgRNSg0",
+    "name": "Popular 80s playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLkduOEBMFU9Y"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLrFp9MyyePTO",
+    "genre_id": "0JQ5DAqbMKFIVNxQgRNSg0",
+    "name": "Popular 70s playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLrFp9MyyePTO"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLkr3gPZvqcDf",
+    "genre_id": "0JQ5DAqbMKFIVNxQgRNSg0",
+    "name": "Popular 60s playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLkr3gPZvqcDf"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLjlNCeOAVt7h",
+    "genre_id": "0JQ5DAqbMKFIVNxQgRNSg0",
+    "name": "Popular 50s playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLjlNCeOAVt7h"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLqAZHX2Lq2nN",
+    "genre_id": "0JQ5DAqbMKFIVNxQgRNSg0",
+    "name": "Decades of Japanese City Pop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLqAZHX2Lq2nN"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzn6hWUITTt0",
+    "genre_id": "0JQ5DAqbMKFIVNxQgRNSg0",
+    "name": "Classic road trip songs",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzn6hWUITTt0"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAaICfIrQqWn",
+    "genre_id": "0JQ5DAqbMKFQIL0AXnG5AK",
+    "name": "Popular Trending playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAaICfIrQqWn"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLCApBaRMg3Mg",
+    "genre_id": "0JQ5DAqbMKFQIL0AXnG5AK",
+    "name": "Trending Japanese Hip-Hop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLCApBaRMg3Mg"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvfc0P86g66k",
+    "genre_id": "0JQ5DAqbMKFziKOShCi009",
+    "name": "Popular Anime Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvfc0P86g66k"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLwl9biRbp1UU",
+    "genre_id": "0JQ5DAqbMKFziKOShCi009",
+    "name": "New Anime Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLwl9biRbp1UU"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLibJo55zmEDZ",
+    "genre_id": "0JQ5DAqbMKFziKOShCi009",
+    "name": "Crunchyroll",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLibJo55zmEDZ"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLpAdI5o6BG82",
+    "genre_id": "0JQ5DAqbMKFziKOShCi009",
+    "name": "Editor's pick: Anime",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLpAdI5o6BG82"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiyUEmlT3gTH",
+    "genre_id": "0JQ5DAqbMKFziKOShCi009",
+    "name": "Your Favorite Anime in 2020s",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiyUEmlT3gTH"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLpLeZD3nZh59",
+    "genre_id": "0JQ5DAqbMKFziKOShCi009",
+    "name": "Your Favorite Anime in 2010s",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLpLeZD3nZh59"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLj67c1jsTYkX",
+    "genre_id": "0JQ5DAqbMKFziKOShCi009",
+    "name": "Your Favorite Anime in 2000s",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLj67c1jsTYkX"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLwiZodu0ObML",
+    "genre_id": "0JQ5DAqbMKFziKOShCi009",
+    "name": "Your Favorite Anime in 1990s",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLwiZodu0ObML"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLqL7nfLu0BS3",
+    "genre_id": "0JQ5DAqbMKFziKOShCi009",
+    "name": "Your Favorite Anime in 1980s",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLqL7nfLu0BS3"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLmphdXHlA2ku",
+    "genre_id": "0JQ5DAqbMKFziKOShCi009",
+    "name": "Popular Anime OST",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLmphdXHlA2ku"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLk07TlJIbq4p",
+    "genre_id": "0JQ5DAqbMKFAjfauKLOZiv",
+    "name": "Popular Punk playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLk07TlJIbq4p"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLxKjP3AW4Hh7",
+    "genre_id": "0JQ5DAqbMKFAjfauKLOZiv",
+    "name": "Felt Emo Might Delete",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLxKjP3AW4Hh7"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLxcU8rbxl5gv",
+    "genre_id": "0JQ5DAqbMKFy78wprEpAjl",
+    "name": "Everything Folk & Acoustic",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLxcU8rbxl5gv"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLya6EJO6HiU0",
+    "genre_id": "0JQ5DAqbMKFy78wprEpAjl",
+    "name": "New Releases in Folk & Acoustic",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLya6EJO6HiU0"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiMceg2yOIfJ",
+    "genre_id": "0JQ5DAqbMKFy78wprEpAjl",
+    "name": "Folk Moods & Moments",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiMceg2yOIfJ"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLkozRjIjRyAv",
+    "genre_id": "0JQ5DAqbMKFy78wprEpAjl",
+    "name": "New in Folk & Acoustic",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLkozRjIjRyAv"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLmSUJ0x8skC5",
+    "genre_id": "0JQ5DAqbMKFy78wprEpAjl",
+    "name": "Americana",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLmSUJ0x8skC5"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLkzgZCK8CI3Q",
+    "genre_id": "0JQ5DAqbMKFy78wprEpAjl",
+    "name": "Folk Classics",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLkzgZCK8CI3Q"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLuDJiPQtGl70",
+    "genre_id": "0JQ5DAqbMKFy78wprEpAjl",
+    "name": "Indie-Folk",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLuDJiPQtGl70"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLqwK44Ghmapb",
+    "genre_id": "0JQ5DAqbMKFy78wprEpAjl",
+    "name": "Covers we love",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLqwK44Ghmapb"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAaqMPgXjgJy",
+    "genre_id": "0JQ5DAqbMKFy78wprEpAjl",
+    "name": "Popular Folk & Acoustic Artists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAaqMPgXjgJy"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLxPdSNvKHjkg",
+    "genre_id": "0JQ5DAqbMKFCbimwdOYlsl",
+    "name": "Deep concentration",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLxPdSNvKHjkg"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLldfnR2jJ6Jx",
+    "genre_id": "0JQ5DAqbMKFCbimwdOYlsl",
+    "name": "In the background",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLldfnR2jJ6Jx"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLwDbdvz50ODM",
+    "genre_id": "0JQ5DAqbMKFCbimwdOYlsl",
+    "name": "Hyper focused",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLwDbdvz50ODM"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLjDSw2Tm0D47",
+    "genre_id": "0JQ5DAqbMKFCbimwdOYlsl",
+    "name": "Popular Focus playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLjDSw2Tm0D47"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLnwGoVKZF8Gk",
+    "genre_id": "0JQ5DAqbMKFCbimwdOYlsl",
+    "name": "Study mode",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLnwGoVKZF8Gk"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsXZP7bRbWXR",
+    "genre_id": "0JQ5DAqbMKFCbimwdOYlsl",
+    "name": "Noise for focus",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsXZP7bRbWXR"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvTxiy6WhQ5D",
+    "genre_id": "0JQ5DAqbMKFIpEuaCnimBj",
+    "name": "Popular Soul Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvTxiy6WhQ5D"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLANtSVt2pozp",
+    "genre_id": "0JQ5DAqbMKFIpEuaCnimBj",
+    "name": "Best of soul",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLANtSVt2pozp"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLyaCTTdRlx8K",
+    "genre_id": "0JQ5DAqbMKFIpEuaCnimBj",
+    "name": "Afro Soul and R&B lovers only",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLyaCTTdRlx8K"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLspTIjSA9v8p",
+    "genre_id": "0JQ5DAqbMKFCfObibaOZbv",
+    "name": "Popular gaming playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLspTIjSA9v8p"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLmZTsDLgxa0k",
+    "genre_id": "0JQ5DAqbMKFCfObibaOZbv",
+    "name": "Made for gamers",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLmZTsDLgxa0k"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLovsZigEeKlI",
+    "genre_id": "0JQ5DAqbMKFCfObibaOZbv",
+    "name": "Original game soundtracks",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLovsZigEeKlI"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiMD9ODWICJV",
+    "genre_id": "0JQ5DAqbMKFCfObibaOZbv",
+    "name": "A Minecraft Universe",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiMD9ODWICJV"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsNNJ6Tcjw7v",
+    "genre_id": "0JQ5DAqbMKFxXaXKP7zcDp",
+    "name": "Latin Favorites ❤️‍🔥",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsNNJ6Tcjw7v"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLqr9UWGHDwHS",
+    "genre_id": "0JQ5DAqbMKFxXaXKP7zcDp",
+    "name": "Popular Latin playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLqr9UWGHDwHS"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzB38khW4YyO",
+    "genre_id": "0JQ5DAqbMKFxXaXKP7zcDp",
+    "name": "New Latin releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzB38khW4YyO"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLt1UDtgYbzTU",
+    "genre_id": "0JQ5DAqbMKFxXaXKP7zcDp",
+    "name": "Fresh music on the rise ✨",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLt1UDtgYbzTU"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLmLGGlVaigTv",
+    "genre_id": "0JQ5DAqbMKFxXaXKP7zcDp",
+    "name": "reggaeton on repeat 🔁",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLmLGGlVaigTv"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvtswH0Y3nK2",
+    "genre_id": "0JQ5DAqbMKFxXaXKP7zcDp",
+    "name": "Reggaeton",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvtswH0Y3nK2"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLjpUGSxvu08z",
+    "genre_id": "0JQ5DAqbMKFxXaXKP7zcDp",
+    "name": "Latin Pop",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLjpUGSxvu08z"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAmCEBpSzGFw",
+    "genre_id": "0JQ5DAqbMKFxXaXKP7zcDp",
+    "name": "Tropical",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAmCEBpSzGFw"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLoKekK2IG0Gv",
+    "genre_id": "0JQ5DAqbMKFxXaXKP7zcDp",
+    "name": "Latin Rock",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLoKekK2IG0Gv"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLrcuAKZHV1ac",
+    "genre_id": "0JQ5DAqbMKFOzQeOmemkuw",
+    "name": "Music from the movies",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLrcuAKZHV1ac"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLCZwGeXUuR2m",
+    "genre_id": "0JQ5DAqbMKFOzQeOmemkuw",
+    "name": "Official Netflix Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLCZwGeXUuR2m"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvfc0P86g66k",
+    "genre_id": "0JQ5DAqbMKFOzQeOmemkuw",
+    "name": "Popular Anime Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvfc0P86g66k"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiIa2AxSYL3j",
+    "genre_id": "0JQ5DAqbMKFOzQeOmemkuw",
+    "name": "Unforgettable foreign soundtracks",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiIa2AxSYL3j"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLznUC9ggKKGR",
+    "genre_id": "0JQ5DAqbMKFOzQeOmemkuw",
+    "name": "Iconic 00s soundtracks",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLznUC9ggKKGR"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtnNUFswquJI",
+    "genre_id": "0JQ5DAqbMKFRieVZLLoo9m",
+    "name": "Popular Instrumental playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtnNUFswquJI"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLjl7CyN1D1tU",
+    "genre_id": "0JQ5DAqbMKFRieVZLLoo9m",
+    "name": "Instrumental Beats",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLjl7CyN1D1tU"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLycjVijZMuGf",
+    "genre_id": "0JQ5DAqbMKFRieVZLLoo9m",
+    "name": "Instrumental covers",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLycjVijZMuGf"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLhzIvpkOeAjy",
+    "genre_id": "0JQ5DAqbMKFRieVZLLoo9m",
+    "name": "Instrumental Electronic & Dance",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLhzIvpkOeAjy"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBN7i8P5ZsQy",
+    "genre_id": "0JQ5DAqbMKFRieVZLLoo9m",
+    "name": "Instrumental Guitar & Strings",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBN7i8P5ZsQy"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLwsgCtTD4Q02",
+    "genre_id": "0JQ5DAqbMKFRieVZLLoo9m",
+    "name": "Instrumental Piano",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLwsgCtTD4Q02"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLx89NEqjOFYD",
+    "genre_id": "0JQ5DAqbMKFRieVZLLoo9m",
+    "name": "Instrumental Jazz",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLx89NEqjOFYD"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLycllo8gOB6R",
+    "genre_id": "0JQ5DAqbMKFRieVZLLoo9m",
+    "name": "Instrumental Ambient",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLycllo8gOB6R"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLyHwWT0TqM0a",
+    "genre_id": "0JQ5DAqbMKFRieVZLLoo9m",
+    "name": "Dreamy Instrumentals",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLyHwWT0TqM0a"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAecEPsnXTOk",
+    "genre_id": "0JQ5DAqbMKFRieVZLLoo9m",
+    "name": "Sad instrumentals",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAecEPsnXTOk"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLwwAzN8338kY",
+    "genre_id": "0JQ5DAqbMKFLjmiZRss79w",
+    "name": "Ambient 101",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLwwAzN8338kY"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLrIBwYTEeu90",
+    "genre_id": "0JQ5DAqbMKFLjmiZRss79w",
+    "name": "Ambient Moods & Moments",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLrIBwYTEeu90"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLm6IiBImCpCc",
+    "genre_id": "0JQ5DAqbMKFLjmiZRss79w",
+    "name": "Popular ambient playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLm6IiBImCpCc"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLlUaqsn2BEin",
+    "genre_id": "0JQ5DAqbMKFLjmiZRss79w",
+    "name": "Ambient with nature sounds",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLlUaqsn2BEin"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLh8Lwpw5V6z2",
+    "genre_id": "0JQ5DAqbMKFLjmiZRss79w",
+    "name": "Dig Deeper in Sound",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLh8Lwpw5V6z2"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLmxlxiRZ4NH5",
+    "genre_id": "0JQ5DAqbMKFLjmiZRss79w",
+    "name": "Discover New Ambient",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLmxlxiRZ4NH5"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLrGp4csHx1sf",
+    "genre_id": "0JQ5DAqbMKFLjmiZRss79w",
+    "name": "Relaxing vibes",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLrGp4csHx1sf"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLhPx37Dmwf0p",
+    "genre_id": "0JQ5DAqbMKFLjmiZRss79w",
+    "name": "New Age",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLhPx37Dmwf0p"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLz0q7dvpW1xW",
+    "genre_id": "0JQ5DAqbMKFLjmiZRss79w",
+    "name": "Classic Ambient",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLz0q7dvpW1xW"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLou6FohGhUnA",
+    "genre_id": "0JQ5DAqbMKFLjmiZRss79w",
+    "name": "Ambient Innovators",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLou6FohGhUnA"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLCGpQHm6aX9m",
+    "genre_id": "0JQ5DAqbMKFRY5ok2pxXJ0",
+    "name": "Popular Cooking & Dining playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLCGpQHm6aX9m"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzkpgUd3t1tU",
+    "genre_id": "0JQ5DAqbMKFRY5ok2pxXJ0",
+    "name": "Food around the world",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzkpgUd3t1tU"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLnYmwwH6O1iG",
+    "genre_id": "0JQ5DAqbMKFFtlLYUHv8bT",
+    "name": "Alternative Foundations",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLnYmwwH6O1iG"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLy2gkNMy3UIf",
+    "genre_id": "0JQ5DAqbMKFFtlLYUHv8bT",
+    "name": "Popular Alternative playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLy2gkNMy3UIf"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvz5YijdW4ny",
+    "genre_id": "0JQ5DAqbMKFFtlLYUHv8bT",
+    "name": "Alternative Africa",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvz5YijdW4ny"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLn074MLIzMIB",
+    "genre_id": "0JQ5DAqbMKFOOxftoKZxod",
+    "name": "New and emerging artists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLn074MLIzMIB"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLC9R57AchFhI",
+    "genre_id": "0JQ5DAqbMKFOOxftoKZxod",
+    "name": "International emerging artists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLC9R57AchFhI"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzS9oN8e7tTB",
+    "genre_id": "0JQ5DAqbMKFOOxftoKZxod",
+    "name": "RADAR Songwriters",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzS9oN8e7tTB"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLmMpO1FkSKJZ",
+    "genre_id": "0JQ5DAqbMKFOOxftoKZxod",
+    "name": "Emerging creators around the globe",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLmMpO1FkSKJZ"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiZjimgXiGnl",
+    "genre_id": "0JQ5DAqbMKFPrEiAOxgac3",
+    "name": "Classical Featured Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiZjimgXiGnl"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLke6MEMa1qBk",
+    "genre_id": "0JQ5DAqbMKFPrEiAOxgac3",
+    "name": "Explore Classical",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLke6MEMa1qBk"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzaULLnrLhD4",
+    "genre_id": "0JQ5DAqbMKFPrEiAOxgac3",
+    "name": "Relaxing Classical",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzaULLnrLhD4"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLkWixh1R8OY4",
+    "genre_id": "0JQ5DAqbMKFPrEiAOxgac3",
+    "name": "Soundtracks and Scores",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLkWixh1R8OY4"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBTtqcsGUs0O",
+    "genre_id": "0JQ5DAqbMKFPrEiAOxgac3",
+    "name": "Composers",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBTtqcsGUs0O"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLyF2z8RMxpeJ",
+    "genre_id": "0JQ5DAqbMKFPrEiAOxgac3",
+    "name": "Peaceful Piano",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLyF2z8RMxpeJ"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLlFWgA08n9OU",
+    "genre_id": "0JQ5DAqbMKFPrEiAOxgac3",
+    "name": "Classical New Releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLlFWgA08n9OU"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLj1wRhUdVtsU",
+    "genre_id": "0JQ5DAqbMKFPrEiAOxgac3",
+    "name": "Classical Artist of the Month",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLj1wRhUdVtsU"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLy91OIWL3WG8",
+    "genre_id": "0JQ5DAqbMKFPrEiAOxgac3",
+    "name": "Relaxing Piano",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLy91OIWL3WG8"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLizJ38OyFf1k",
+    "genre_id": "0JQ5DAqbMKFSCjnQr8QZ3O",
+    "name": "Global Featured Songwriter",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLizJ38OyFf1k"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBnjC4m8F1E6",
+    "genre_id": "0JQ5DAqbMKFSCjnQr8QZ3O",
+    "name": "Popular songwriting playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBnjC4m8F1E6"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLltwfz92yUkM",
+    "genre_id": "0JQ5DAqbMKFSCjnQr8QZ3O",
+    "name": "Written By",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLltwfz92yUkM"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzS9oN8e7tTB",
+    "genre_id": "0JQ5DAqbMKFSCjnQr8QZ3O",
+    "name": "RADAR Songwriters",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzS9oN8e7tTB"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzJTf4Lk6OBo",
+    "genre_id": "0JQ5DAqbMKFSCjnQr8QZ3O",
+    "name": "EQUAL Songwriter of the Month",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzJTf4Lk6OBo"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsBRw3SUEV87",
+    "genre_id": "0JQ5DAqbMKFI3pNLtYMD9S",
+    "name": "music + nature",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsBRw3SUEV87"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLqBtB9BKxEZT",
+    "genre_id": "0JQ5DAqbMKFI3pNLtYMD9S",
+    "name": "Popular Nature & Noise playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLqBtB9BKxEZT"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtwu46qqDixn",
+    "genre_id": "0JQ5DAqbMKFI3pNLtYMD9S",
+    "name": "Sounds of nature",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtwu46qqDixn"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLlqNc4G2gD7Z",
+    "genre_id": "0JQ5DAqbMKFI3pNLtYMD9S",
+    "name": "Rain sounds",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLlqNc4G2gD7Z"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLxu6zMwyrep5",
+    "genre_id": "0JQ5DAqbMKFI3pNLtYMD9S",
+    "name": "Solfeggio Frequencies",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLxu6zMwyrep5"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLpO8DTUeVsRR",
+    "genre_id": "0JQ5DAqbMKFI3pNLtYMD9S",
+    "name": "Relaxing rivers, oceans & waves",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLpO8DTUeVsRR"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLphYODLeeEXW",
+    "genre_id": "0JQ5DAqbMKFI3pNLtYMD9S",
+    "name": "Binaural Beats",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLphYODLeeEXW"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLrvgt0z7PN9A",
+    "genre_id": "0JQ5DAqbMKFI3pNLtYMD9S",
+    "name": "Noise for sleep",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLrvgt0z7PN9A"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsXZP7bRbWXR",
+    "genre_id": "0JQ5DAqbMKFI3pNLtYMD9S",
+    "name": "Noise for focus",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsXZP7bRbWXR"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLr3MJWknpFN1",
+    "genre_id": "0JQ5DAqbMKFI3pNLtYMD9S",
+    "name": "Background noise",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLr3MJWknpFN1"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLoX9Hu4VVSlV",
+    "genre_id": "0JQ5DAqbMKFDBgllo2cUIN",
+    "name": "Popular Spotify Singles playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLoX9Hu4VVSlV"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLmTxhfKWXE6h",
+    "genre_id": "0JQ5DAqbMKFDBgllo2cUIN",
+    "name": "Spotify Singles New Releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLmTxhfKWXE6h"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLyFcNw9Xz9F2",
+    "genre_id": "0JQ5DAqbMKFLVaM30PMBm4",
+    "name": "Dance all summer",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLyFcNw9Xz9F2"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtNWJTPWGsA3",
+    "genre_id": "0JQ5DAqbMKFLVaM30PMBm4",
+    "name": "Summer throwback",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtNWJTPWGsA3"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLyUm1NexnTS6",
+    "genre_id": "0JQ5DAqbMKFLVaM30PMBm4",
+    "name": "Summer sounds",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLyUm1NexnTS6"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLn9ub30IYmfd",
+    "genre_id": "0JQ5DAqbMKFLVaM30PMBm4",
+    "name": "Poolside chillin",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLn9ub30IYmfd"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLn1dcSacLT92",
+    "genre_id": "0JQ5DAqbMKFLVaM30PMBm4",
+    "name": "Summer hangout",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLn1dcSacLT92"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvkiwaxglrIZ",
+    "genre_id": "0JQ5DAqbMKFLVaM30PMBm4",
+    "name": "Summer party",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvkiwaxglrIZ"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzPMOeFEDLmQ",
+    "genre_id": "0JQ5DAqbMKFLVaM30PMBm4",
+    "name": "Summer Fling",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzPMOeFEDLmQ"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzn6hWUITTt0",
+    "genre_id": "0JQ5DAqbMKFLVaM30PMBm4",
+    "name": "Classic road trip songs",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzn6hWUITTt0"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBhZOooQxET1",
+    "genre_id": "0JQ5DAqbMKFLVaM30PMBm4",
+    "name": "On the water",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBhZOooQxET1"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLizDhUq5tc96",
+    "genre_id": "0JQ5DAqbMKFLVaM30PMBm4",
+    "name": "Latin Summer",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLizDhUq5tc96"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvaC8Xrtl0vm",
+    "genre_id": "0JQ5DAqbMKFPw634sFwguI",
+    "name": "Playlists Celebrating Women",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvaC8Xrtl0vm"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLpnJYfYOFnPD",
+    "genre_id": "0JQ5DAqbMKFPw634sFwguI",
+    "name": "EQUAL: Must listen albums",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLpnJYfYOFnPD"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzRFHaQhwSmL",
+    "genre_id": "0JQ5DAqbMKFPw634sFwguI",
+    "name": "Essential female songwriters",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzRFHaQhwSmL"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzAXRYC0CeFB",
+    "genre_id": "0JQ5DAqbMKFPw634sFwguI",
+    "name": "EQUAL Around the World",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzAXRYC0CeFB"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtGB1UMjKABb",
+    "genre_id": "0JQ5DAqbMKFPw634sFwguI",
+    "name": "Genre Shapers",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtGB1UMjKABb"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLmdV4K4hLrHt",
+    "genre_id": "0JQ5DAqbMKFPw634sFwguI",
+    "name": "Popular EQUAL playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLmdV4K4hLrHt"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiI2UwIHnrW5",
+    "genre_id": "0JQ5DAqbMKFPw634sFwguI",
+    "name": "Woman support woman",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiI2UwIHnrW5"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzJTf4Lk6OBo",
+    "genre_id": "0JQ5DAqbMKFPw634sFwguI",
+    "name": "EQUAL Songwriter of the Month",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzJTf4Lk6OBo"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAgaKyuh9U4I",
+    "genre_id": "0JQ5DAqbMKFImHYGo3eTSg",
+    "name": "New music by independent artists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAgaKyuh9U4I"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLu5p2S1j5kqL",
+    "genre_id": "0JQ5DAqbMKFImHYGo3eTSg",
+    "name": "Fresh Finds from around the world",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLu5p2S1j5kqL"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAxia3QhESTx",
+    "genre_id": "0JQ5DAqbMKFImHYGo3eTSg",
+    "name": "Fresh Finds in 2024",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAxia3QhESTx"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiKzrFAAigSF",
+    "genre_id": "0JQ5DAqbMKFImHYGo3eTSg",
+    "name": "Fresh Finds in 2023",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiKzrFAAigSF"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLCZwGeXUuR2m",
+    "genre_id": "0JQ5DAqbMKFEOEBCABAxo9",
+    "name": "Official Netflix Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLCZwGeXUuR2m"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBWbARQgZiTG",
+    "genre_id": "0JQ5DAqbMKFEOEBCABAxo9",
+    "name": "Official Netflix Soundtracks",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBWbARQgZiTG"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLn0igmj1M0Ek",
+    "genre_id": "0JQ5DAqbMKFEOEBCABAxo9",
+    "name": "Netflix Podcasts",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLn0igmj1M0Ek"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvmNNgG7jpKB",
+    "genre_id": "0JQ5DAqbMKFEOEBCABAxo9",
+    "name": "Netflix Family Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvmNNgG7jpKB"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLwFbrZL6EmZR",
+    "genre_id": "0JQ5DAqbMKFEOEBCABAxo9",
+    "name": "Netflix Family Soundtracks",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLwFbrZL6EmZR"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLq48Jnro3loZ",
+    "genre_id": "0JQ5DAqbMKFEOEBCABAxo9",
+    "name": "Popular Netflix Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLq48Jnro3loZ"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAfi2ePCwFGl",
+    "genre_id": "0JQ5DAqbMKFIxnofjQmnmn",
+    "name": "Disney Indonesia Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAfi2ePCwFGl"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLioVHN96qmhH",
+    "genre_id": "0JQ5DAqbMKFIxnofjQmnmn",
+    "name": "Popular Disney playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLioVHN96qmhH"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLznclJwQ16Vr",
+    "genre_id": "0JQ5DAqbMKFIxnofjQmnmn",
+    "name": "Disney Soundtracks",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLznclJwQ16Vr"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBCMH4w6oUbU",
+    "genre_id": "0JQ5DAqbMKFIxnofjQmnmn",
+    "name": "Marvel",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBCMH4w6oUbU"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLnZcjxJLzFPT",
+    "genre_id": "0JQ5DAqbMKFIxnofjQmnmn",
+    "name": "Star Wars",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLnZcjxJLzFPT"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLp54i6CjHeSc",
+    "genre_id": "0JQ5DAqbMKFIxnofjQmnmn",
+    "name": "Disney Podcasts",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLp54i6CjHeSc"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLskhpeIbDScd",
+    "genre_id": "0JQ5DAqbMKFKLfwjuJMoNC",
+    "name": "Popular Country Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLskhpeIbDScd"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLtcHHkMjuMuR",
+    "genre_id": "0JQ5DAqbMKFKLfwjuJMoNC",
+    "name": "Popular Country playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLtcHHkMjuMuR"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLhJv0aOPwaTB",
+    "genre_id": "0JQ5DAqbMKFKLfwjuJMoNC",
+    "name": "New in Country",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLhJv0aOPwaTB"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLhm72ZBWq3jh",
+    "genre_id": "0JQ5DAqbMKFKLfwjuJMoNC",
+    "name": "homegrown",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLhm72ZBWq3jh"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsduLom2jHgm",
+    "genre_id": "0JQ5DAqbMKFKLfwjuJMoNC",
+    "name": "Country hits",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsduLom2jHgm"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLyZU4KmyxLD3",
+    "genre_id": "0JQ5DAqbMKFKLfwjuJMoNC",
+    "name": "Country for every mood",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLyZU4KmyxLD3"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLlFH0EB3u1Qh",
+    "genre_id": "0JQ5DAqbMKFKLfwjuJMoNC",
+    "name": "Popular Country Artists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLlFH0EB3u1Qh"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLuw9VlMcyakE",
+    "genre_id": "0JQ5DAqbMKFKLfwjuJMoNC",
+    "name": "Fresh Finds Country",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLuw9VlMcyakE"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLpzgmQtAkMZd",
+    "genre_id": "0JQ5DAqbMKFLb2EqgLtpjC",
+    "name": "Popular Wellness playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLpzgmQtAkMZd"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLrPVs8ACqPGY",
+    "genre_id": "0JQ5DAqbMKFLb2EqgLtpjC",
+    "name": "Hug yourself",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLrPVs8ACqPGY"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLsBRw3SUEV87",
+    "genre_id": "0JQ5DAqbMKFLb2EqgLtpjC",
+    "name": "music + nature",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLsBRw3SUEV87"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLqpY7HIkmhz9",
+    "genre_id": "0JQ5DAqbMKFLb2EqgLtpjC",
+    "name": "Relaxing Instrumentals",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLqpY7HIkmhz9"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLxu6zMwyrep5",
+    "genre_id": "0JQ5DAqbMKFLb2EqgLtpjC",
+    "name": "Solfeggio Frequencies",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLxu6zMwyrep5"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLwEZRaxrrNLd",
+    "genre_id": "0JQ5DAqbMKFLb2EqgLtpjC",
+    "name": "New age relaxation",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLwEZRaxrrNLd"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLhQZ52QuJpSE",
+    "genre_id": "0JQ5DAqbMKFLb2EqgLtpjC",
+    "name": "Nature Sounds",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLhQZ52QuJpSE"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLmMf8JlnToDf",
+    "genre_id": "0JQ5DAqbMKFLb2EqgLtpjC",
+    "name": "Spa & Massage",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLmMf8JlnToDf"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAv9SzouU8Nb",
+    "genre_id": "0JQ5DAqbMKFLb2EqgLtpjC",
+    "name": "Popular Meditation playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAv9SzouU8Nb"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLlZMXMYUXUiW",
+    "genre_id": "0JQ5DAqbMKFLb2EqgLtpjC",
+    "name": "Yoga",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLlZMXMYUXUiW"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLCoex8iquN89",
+    "genre_id": "0JQ5DAqbMKFRKBHIxJ5hMm",
+    "name": "Tastemakers Label Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLCoex8iquN89"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLnE2y6ly5VhF",
+    "genre_id": "0JQ5DAqbMKFRKBHIxJ5hMm",
+    "name": "Tastemakers Genres",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLnE2y6ly5VhF"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLwbKewMX6MU6",
+    "genre_id": "0JQ5DAqbMKFRKBHIxJ5hMm",
+    "name": "Tastemakers Moods & Activities",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLwbKewMX6MU6"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBcO7p7Iyt9C",
+    "genre_id": "0JQ5DAqbMKFRKBHIxJ5hMm",
+    "name": "Tastemakers Eras",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBcO7p7Iyt9C"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLo0h2lIOXx3Q",
+    "genre_id": "0JQ5DAqbMKFQ1UFISXj59F",
+    "name": "Popular Arabic playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLo0h2lIOXx3Q"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLiiXD3SVVqfM",
+    "genre_id": "0JQ5DAqbMKFQ1UFISXj59F",
+    "name": "Arabic New Releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLiiXD3SVVqfM"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAOEd7wIPNB2",
+    "genre_id": "0JQ5DAqbMKFQ1UFISXj59F",
+    "name": "Arab Podcasters",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAOEd7wIPNB2"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLyPPrWO01Swe",
+    "genre_id": "0JQ5DAqbMKFNQ0fGp4byGU",
+    "name": "Afro New Releases",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLyPPrWO01Swe"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLyd1nX7J4XJD",
+    "genre_id": "0JQ5DAqbMKFNQ0fGp4byGU",
+    "name": "Popular Afro Playlists",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLyd1nX7J4XJD"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLBUk35ZyJCxP",
+    "genre_id": "0JQ5DAqbMKFNQ0fGp4byGU",
+    "name": "African Dance & Electronic",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLBUk35ZyJCxP"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLvz5YijdW4ny",
+    "genre_id": "0JQ5DAqbMKFNQ0fGp4byGU",
+    "name": "Alternative Africa",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLvz5YijdW4ny"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLpYZmgd1B5Ub",
+    "genre_id": "0JQ5DAqbMKFNQ0fGp4byGU",
+    "name": "More than Afrobeats",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLpYZmgd1B5Ub"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLzJUOyqAQZ4l",
+    "genre_id": "0JQ5DAqbMKFNQ0fGp4byGU",
+    "name": "Afro Moods and Moments",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLzJUOyqAQZ4l"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLpjATFtulhq9",
+    "genre_id": "0JQ5DAqbMKFNQ0fGp4byGU",
+    "name": "R&B from Africa",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLpjATFtulhq9"
+  },
+  {
+    "collection_id": "section0JQ5IMCbQBLAKauv8CRrEY",
+    "genre_id": "0JQ5DAqbMKFNQ0fGp4byGU",
+    "name": "Afro Party Starters",
+    "url": "https://open.spotify.com/genre/section0JQ5IMCbQBLAKauv8CRrEY"
+  }
+]

@@ -1,8 +1,17 @@
 import logging
+import os
+import sys
 from typing import List, Dict
 from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.chrome.service import Service
+
+sys.path.append(os.path.join(os.path.dirname(__file__)))
+from extractor.genre import GenreExtractor
+
+CHROMEDRIVER_PATH = 'D:/Exe/chromedriver-win64/chromedriver.exe'
+CHROME_PATH = 'D:/Exe/chrome-win64/chrome.exe'
+START_URL = "https://open.spotify.com/search"
 
 class SpotifyScraper:
     """Main scraper class for extracting Spotify data
@@ -31,6 +40,7 @@ class SpotifyScraper:
         self.collections: List[Dict[str, str]] = []
         
         self.browser = self._initialize_browser(chromedriver_path, chrome_path)
+        self.genre_extractor = GenreExtractor(self.browser)
         
         self.browser.get(self.start_url)
         logging.info(f"[Main] Navigated to {self.start_url}")
@@ -59,7 +69,7 @@ class SpotifyScraper:
         chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
         chrome_options.add_experimental_option('useAutomationExtension', False)
         chrome_options.binary_location = chrome_path
-
+        
         try:
             browser = webdriver.Chrome(
                 service=Service(chromedriver_path),
@@ -73,8 +83,61 @@ class SpotifyScraper:
             logging.error(f"[Main] Failed to initialize browser: {str(e)}")
             raise
 
+    def _process_genre(self) -> None:
+        """Extract and save genre data
+
+        Raises:
+            WebDriverException: If browser automation fails
+            Exception: If any step in the genre extraction process fails
+        """
+
+        try:
+            self.genre_links = self.genre_extractor.get_data()
+        except Exception as e:
+            logging.error(f"[Genre] {str(e)}")
+            raise
+        
+        if not self.genre_links:
+            logging.info("[Genre] No genre links found!")
+            return
+        
+        logging.info(f"[Main] Found {len(self.genre_links)} genres:")
+
+        for genre in self.genre_links[:10]:
+            print(f"- {genre['name']}: {genre['url']}")
+        if len(self.genre_links) > 10:
+            print(f"... and {len(self.genre_links) - 10} more")
+        
+        try:
+            self.genre_extractor.save_to_json("Data Scraping/data/genre.json")
+        except Exception as e:
+            logging.error(f"[Genre] Error saving genres: {str(e)}")
+            raise
+        
+    def run(self) -> None:
+        """Run the complete scraping process
+        
+        Orchestrates the full Spotify data extraction workflow
+        
+        Raises:
+            WebDriverException: If browser automation fails
+            Exception: If any step in the scraping process fails
+        """
+
+        try:
+            logging.info("[Main] Starting genre extraction...")
+            self._process_genre()
+            logging.info("[Main] Genre extraction completed successfully")
+
+        except WebDriverException as e:
+            logging.error(f"[Main - WebDriverException] {str(e)}")
+
+        except Exception as e:
+            logging.error(f"[Main - Exception] {str(e)}")
+
     def close_browser(self) -> None:
         """Safely terminates the Chrome WebDriver session."""
 
         if hasattr(self, 'browser') and self.browser:
             self.browser.quit()
+            logging.info("[Main] Browser closed")

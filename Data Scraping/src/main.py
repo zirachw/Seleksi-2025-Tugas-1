@@ -1,6 +1,7 @@
 import os
 import sys
 import logging
+import urllib3
 
 sys.path.append(os.path.join(os.path.dirname(__file__)))
 from scraper import SpotifyScraper
@@ -18,8 +19,16 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s: %(message)s'
 )
 
-scraper = SpotifyScraper(START_URL, CHROMEDRIVER_PATH, CHROME_PATH)
-scraper.run()
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+logging.getLogger("urllib3").setLevel(logging.ERROR)
 
-if scraper:
-    scraper.close_browser()
+scraper = None
+
+try:
+    scraper = SpotifyScraper(START_URL, CHROMEDRIVER_PATH, CHROME_PATH)
+    scraper.run()
+except KeyboardInterrupt:
+    logging.info("[Main] KeyboardInterrupt received, shutting down...")
+finally:
+    if scraper:
+        scraper.close_browser()
